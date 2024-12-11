@@ -1,0 +1,30 @@
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.exe
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.deps.json
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.runtimeconfig.json
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.pdb
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.csproj.AssemblyReference.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.AssemblyInfoInputs.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.AssemblyInfo.cs
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\refint\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.pdb
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.genruntimeconfig.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem\CommunityLibrarySystem\obj\Debug\net6.0\ref\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.exe
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.deps.json
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.runtimeconfig.json
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\bin\Debug\net6.0\CommunityLibrarySystem.pdb
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.csproj.AssemblyReference.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.AssemblyInfoInputs.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.AssemblyInfo.cs
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\refint\CommunityLibrarySystem.dll
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.pdb
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\CommunityLibrarySystem.genruntimeconfig.cache
+C:\Users\katie\Desktop\CommunityLibrarySystem - 副本\CommunityLibrarySystem\obj\Debug\net6.0\ref\CommunityLibrarySystem.dll
